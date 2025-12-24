@@ -6,7 +6,6 @@ kundenAssistent/
 │   └── config.py
 ├── requirements.txt
 └── render.yaml (optional)
-
 fastapi
 uvicorn
 openai
