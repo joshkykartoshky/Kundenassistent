@@ -1,0 +1,8 @@
+kundenAssistent/
+├── app/
+│   ├── main.py
+│   ├── llm.py
+│   ├── data.py
+│   └── config.py
+├── requirements.txt
+└── render.yaml (optional)
